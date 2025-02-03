@@ -1,0 +1,7 @@
+**/__pycache__
+common
+output
+logs/
+**/.pytest_cache
+data/*
+tests/data
